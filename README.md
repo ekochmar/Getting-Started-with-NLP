@@ -1,4 +1,4 @@
-# Essential Natural Language Processing
+# Getting Started with Natural Language Processing
 
 This repository accompanies the book **Getting Started with Natural Language Processing** available [here](https://www.manning.com/books/getting-started-with-natural-language-processing?query=natural). You can use the coupon code "slkochmar" to get a 42% discount.
 
