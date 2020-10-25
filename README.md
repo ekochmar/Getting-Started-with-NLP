@@ -7,3 +7,4 @@ This repository accompanies the book **Getting Started with Natural Language Pro
 - [Chapter 4 – Information Extraction](https://github.com/ekochmar/Essential-NLP/blob/master/Chapter4.ipynb)
 - [Chapters 5 & 6 – Author Attribution and User Profiling](https://github.com/ekochmar/Essential-NLP/blob/master/Chapters5-6.ipynb)
 - [Chapters 7 & 8 – Sentiment Analysis](https://github.com/ekochmar/Essential-NLP/blob/master/Chapters7-8.ipynb)
+- [Chapter 9 – Topic Analysis](https://github.com/ekochmar/Essential-NLP/blob/master/Chapter9.ipynb)
