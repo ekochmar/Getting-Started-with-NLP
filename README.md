@@ -9,3 +9,4 @@ This repository accompanies the book **Getting Started with Natural Language Pro
 - [Chapters 7 & 8 – Sentiment Analysis](https://github.com/ekochmar/Essential-NLP/blob/master/Chapters7-8.ipynb)
 - [Chapter 9 – Topic Analysis](https://github.com/ekochmar/Essential-NLP/blob/master/Chapter9.ipynb)
 - [Chapter 10 – Topic Modeling](https://github.com/ekochmar/Essential-NLP/blob/master/Chapter10.ipynb)
+- [Chapter 11 – Named Entity Recognition](https://github.com/ekochmar/Essential-NLP/blob/master/Chapter11.ipynb)
