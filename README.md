@@ -2,6 +2,7 @@
 
 This repository accompanies the book **Getting Started with Natural Language Processing** available [here](https://www.manning.com/books/getting-started-with-natural-language-processing?query=natural). You can use the coupon code "slkochmar" to get a 42% discount.
 
+- [Chapter 1 – Introduction](https://github.com/ekochmar/Getting-Started-with-NLP/blob/master/Chapter1.ipynb)
 - [Chapter 2 – Your first NLP example](https://github.com/ekochmar/Essential-NLP/blob/master/Chapter2.ipynb)
 - [Chapter 3 – Introduction to Information Search](https://github.com/ekochmar/Essential-NLP/blob/master/Chapter3.ipynb)
 - [Chapter 4 – Information Extraction](https://github.com/ekochmar/Essential-NLP/blob/master/Chapter4.ipynb)
