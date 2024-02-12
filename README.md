@@ -1,6 +1,6 @@
 # Getting Started with Natural Language Processing
 
-This repository accompanies the book **Getting Started with Natural Language Processing** available [here](https://www.manning.com/books/getting-started-with-natural-language-processing?query=natural). To get a 42% discount on the book, use the coupon code "slkochmar".
+This repository accompanies the book **Getting Started with Natural Language Processing** available [here](https://www.manning.com/books/getting-started-with-natural-language-processing?query=natural). To get a 42% discount on the book on Manning website, use the coupon code "slkochmar". The book is also [available on Amazon](https://www.amazon.com/Getting-Started-Natural-Language-Processing/dp/1617296767).
 
 [**Here**](https://ekochmar.github.io/nlp-course/) you will also find an **NLP course** that uses this book.
 
